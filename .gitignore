@@ -1,2 +1,5 @@
 # JetBrains project configuration
 .idea/
+
+# Node modules
+node_modules
